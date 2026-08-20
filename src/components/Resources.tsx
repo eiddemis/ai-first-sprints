@@ -17,14 +17,14 @@ export const Resources: React.FC<ResourcesProps> = ({ onSelectResource }) => {
     icon: 'Archive',
     description: 'Shared OneDrive repository containing all required workshop assets: Problem Framing worksheets, Vibe-Coding prompt cheat sheets, datasets (TXT & CSV), and sandbox starter templates.',
     filename: 'DSTA_AI_First_Sprint_Course_Resources',
-    downloadUrl: 'https://1drv.ms/f/c/ea886db673c3396b/IgAUMysf799nT5Wv0KSC9aRpAdYJReomtXPSi4uh2v8ojgs?e=voZytQ',
+    downloadUrl: 'https://1drv.ms/f/c/ea886db673c3396b/IgAUMysf799nT5Wv0KSC9aRpAdYJReomtXPSi4uh2v8ojgs?e=l3vNcB',
     tags: ['Worksheets', 'Prompt Cheat Sheets', 'TXT & CSV Data', 'Code Templates'],
     downloadContent: `===================================================================
 DSTA AI FIRST SPRINT - SHARED COURSE RESOURCES (ONEDRIVE)
 ===================================================================
 
 DIRECT ONEDRIVE FOLDER LINK:
-https://1drv.ms/f/c/ea886db673c3396b/IgAUMysf799nT5Wv0KSC9aRpAdYJReomtXPSi4uh2v8ojgs?e=voZytQ
+https://1drv.ms/f/c/ea886db673c3396b/IgAUMysf799nT5Wv0KSC9aRpAdYJReomtXPSi4uh2v8ojgs?e=l3vNcB
 
 FOLDER REPOSITORY CONTENTS & RELEVANT FILES:
 -------------------------------------------------------------------
