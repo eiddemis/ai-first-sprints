@@ -119,7 +119,7 @@ export const RESOURCES: ResourceItem[] = [
     description: 'A structured worksheet designed for DSTA officers to diagnose workplace bottlenecks, isolate root causes using 5 Whys, and define Context, Challenge, Core Impact & Capabilities (4Cs) before writing code or prompts.',
     filename: 'DSTA_5Whys_4Cs_Problem_Framing_Template.pdf',
     tags: ['Problem Framing', 'Worksheet', 'Root Cause Analysis'],
-    downloadContent: `DSTA AI FIRST SPRINTS - PROBLEM FRAMING WORKSHEET
+    downloadContent: `DSTA AI Sprint - PROBLEM FRAMING WORKSHEET
 
 1. THE 5 WHYS ROOT CAUSE METHODOLOGY
 --------------------------------------------------

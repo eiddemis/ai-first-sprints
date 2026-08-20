@@ -43,7 +43,7 @@ export const Header: React.FC = () => {
             <div>
               <div className="flex items-center gap-2">
                 <span className="text-lg font-bold tracking-tight text-[#E6F1FF] group-hover:text-[#64FFDA] transition-colors">
-                  AI First Sprints
+                  AI Sprint
                 </span>
                 <span className="bg-[#64FFDA]/10 text-[#64FFDA] text-[11px] font-semibold px-2 py-0.5 rounded border border-[#64FFDA]/30">
                   Course Portal

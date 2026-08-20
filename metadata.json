@@ -1,6 +1,6 @@
 {
-  "name": "AI First Sprints @ DSTA",
-  "description": "Course Portal for DSTA AI First Sprints — Program Schedule, Workshop Files, and Details",
+  "name": "AI Sprint @ DSTA",
+  "description": "Course Portal for DSTA AI Sprint — Program Schedule, Workshop Files, and Details",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }

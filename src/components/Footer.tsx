@@ -19,11 +19,11 @@ export const Footer: React.FC = () => {
                 />
               </div>
               <span className="text-lg font-bold text-[#E6F1FF] tracking-tight">
-                AI First Sprints @ DSTA
+                AI Sprint @ DSTA
               </span>
             </div>
             <p className="text-xs text-[#CCD6F6] leading-relaxed max-w-md">
-              AI First Sprints @ DSTA — Empowering the Defence Tech Workforce. Automating administrative tasks to liberate officers for strategic defence engineering and mission success.
+              AI Sprint @ DSTA — Empowering the Defence Tech Workforce. Automating administrative tasks to liberate officers for strategic defence engineering and mission success.
             </p>
             <div className="flex items-center gap-2 text-[11px] text-[#64FFDA] font-semibold">
               <Shield className="w-3.5 h-3.5" />
